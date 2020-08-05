@@ -5,7 +5,8 @@ A new Flutter project.
 ## Screenshots
 
 ![ss1 (1)](https://user-images.githubusercontent.com/48353225/89440642-8c15d380-d769-11ea-8211-9cdd0112feab.jpg)
-![Screenshot_2020-08-03-21-47-16-50](https://user-images.githubusercontent.com/48353225/89441096-43aae580-d76a-11ea-95ba-02461eb54cba.jpg)
+![Screenshot_2020-08-03-21-47-16-50](https://user-images.githubusercontent.com/48353225/89441315-8cfb3500-d76a-11ea-9e78-9fca1d0a91e2.jpg)
+
 
 
 
