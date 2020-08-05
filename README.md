@@ -1,4 +1,4 @@
-# fluttershare
+# PostShare App
 
 A new Flutter project.
 
