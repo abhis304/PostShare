@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Screenshots
 
+![ss1](https://user-images.githubusercontent.com/48353225/89440071-badf7a00-d768-11ea-98e9-bd3c1315b699.png)
+
+
 
 ## Getting Started
 
